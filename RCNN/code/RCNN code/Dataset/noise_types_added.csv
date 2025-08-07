@@ -1,0 +1,53 @@
+image_name,noise_type
+healthy_1.jpeg,Gaussian
+healthy_1.jpeg,Salt and Pepper
+healthy_1.jpeg,Speckle
+healthy_1.jpeg,Poisson
+mosaic_1.jpeg,Gaussian
+mosaic_1.jpeg,Salt and Pepper
+mosaic_1.jpeg,Speckle
+mosaic_1.jpeg,Poisson
+gaussian_healthy_1.jpeg,Gaussian
+gaussian_healthy_1.jpeg,Salt and Pepper
+gaussian_healthy_1.jpeg,Speckle
+gaussian_healthy_1.jpeg,Poisson
+gaussian_mosaic_1.jpeg,Gaussian
+gaussian_mosaic_1.jpeg,Salt and Pepper
+gaussian_mosaic_1.jpeg,Speckle
+gaussian_mosaic_1.jpeg,Poisson
+poisson_healthy_1.jpeg,Gaussian
+poisson_healthy_1.jpeg,Salt and Pepper
+poisson_healthy_1.jpeg,Speckle
+poisson_healthy_1.jpeg,Poisson
+poisson_mosaic_1.jpeg,Gaussian
+poisson_mosaic_1.jpeg,Salt and Pepper
+poisson_mosaic_1.jpeg,Speckle
+poisson_mosaic_1.jpeg,Poisson
+salt_and_pepper_healthy_1.jpeg,Gaussian
+salt_and_pepper_healthy_1.jpeg,Salt and Pepper
+salt_and_pepper_healthy_1.jpeg,Speckle
+salt_and_pepper_healthy_1.jpeg,Poisson
+salt_and_pepper_mosaic_1.jpeg,Gaussian
+salt_and_pepper_mosaic_1.jpeg,Salt and Pepper
+salt_and_pepper_mosaic_1.jpeg,Speckle
+salt_and_pepper_mosaic_1.jpeg,Poisson
+speckle_healthy_1.jpeg,Gaussian
+speckle_healthy_1.jpeg,Salt and Pepper
+speckle_healthy_1.jpeg,Speckle
+speckle_healthy_1.jpeg,Poisson
+speckle_mosaic_1.jpeg,Gaussian
+speckle_mosaic_1.jpeg,Salt and Pepper
+speckle_mosaic_1.jpeg,Speckle
+speckle_mosaic_1.jpeg,Poisson
+redrot_1.jpeg,Gaussian
+redrot_1.jpeg,Salt and Pepper
+redrot_1.jpeg,Speckle
+redrot_1.jpeg,Poisson
+rust_1.jpeg,Gaussian
+rust_1.jpeg,Salt and Pepper
+rust_1.jpeg,Speckle
+rust_1.jpeg,Poisson
+yellow_1.jpeg,Gaussian
+yellow_1.jpeg,Salt and Pepper
+yellow_1.jpeg,Speckle
+yellow_1.jpeg,Poisson
