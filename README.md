@@ -4,12 +4,10 @@ This project focuses on detecting anomalies in Sugarcane crop using drone-captur
 
 ## 📁 Repository Structure
 
-.
-├── CNN # Traditional Convolutional Neural Network implementation
-├── RCNN # Region-based CNN for object detection
-├── YOLO-v8 # YOLOv8 implementation using Ultralytics
-├── README.md # Project documentation
-├── Readme.txt # (Legacy/backup) readme file
+  CNN # Traditional Convolutional Neural Network implementation
+   RCNN # Region-based CNN for object detection
+   YOLO-v8 # YOLOv8 implementation using Ultralytics
+   README.md # Project documentation
 
 ## 🚁 Project Objective
 
